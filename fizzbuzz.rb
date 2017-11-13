@@ -1,4 +1,3 @@
 def FizzBuzz
 
 end
-
