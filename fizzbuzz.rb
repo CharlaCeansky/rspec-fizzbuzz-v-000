@@ -6,4 +6,3 @@ def FizzBuzz(i)
   if i % 5 == 0
     return "Buzz"
 end
-end
