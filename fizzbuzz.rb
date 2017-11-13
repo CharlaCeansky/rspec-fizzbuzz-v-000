@@ -1,6 +1,10 @@
 def FizzBuzz(i)
   if i % 15 == 0
-    return "Fizzbuzz"
-  if int
+    return "FizzBuzz"
+  if i % 3  == 0
+    return "Fizz"
+  if i % 5 == 0
+    return "Buzz"
+  
 end
 end
