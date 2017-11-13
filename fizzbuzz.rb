@@ -1,5 +1,6 @@
-def FizzBuzz(int)
-  if int % 15 == 0
+def FizzBuzz(i)
+  if i % 15 == 0
     return "Fizzbuzz"
+  if int
 end
 end
