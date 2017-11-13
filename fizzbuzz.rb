@@ -1,4 +1,4 @@
-def fizzbuzz(0...100)
+def fizzbuzz(tinteger)
 int += 1
   if int % 3 == 0
     return "Fizz"
