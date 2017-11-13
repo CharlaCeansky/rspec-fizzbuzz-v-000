@@ -1,3 +1,3 @@
-def FizzBuzz 
+def FizzBuzz
 
 end
