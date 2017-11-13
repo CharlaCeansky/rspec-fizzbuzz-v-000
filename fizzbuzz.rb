@@ -1,6 +1,6 @@
-def FizzBuzz(i)
+def fizzbuzz(i)
   if i% 3 == 0
-    "Fizz"
+    "fizz"
 
 end
 end
